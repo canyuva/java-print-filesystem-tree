@@ -2,4 +2,4 @@
 A program like tree command
 
 ## Usage
-* Declare path at `Runner.java` and run it.
+* Declare path in `Runner.java` and run it.
